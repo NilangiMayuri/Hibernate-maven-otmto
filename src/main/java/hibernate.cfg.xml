@@ -6,7 +6,7 @@
 <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/hibernate_otmto</property>
 <!--  Replace with your Oracle username and password  -->
 <property name="hibernate.connection.username">root</property>
-<property name="hibernate.connection.password">Ds_mm@nil-195</property>
+<property name="hibernate.connection.password"></property>  <!-- Enter mysql password here -->
 <!--  Oracle Dialect  -->
 <property name="hibernate.dialect">org.hibernate.dialect.MySQL8Dialect</property>
 <!--  Schema management  -->
